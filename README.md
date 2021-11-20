@@ -1,7 +1,5 @@
 ### 👋 Hi there, I am Gaurav Sinha!
-#### 😄 Pronouns: He/Him
-#### :round_pushpin: Bengaluru, India
-#### :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020
+#### 😄 Pronouns: He/Him <p> :round_pushpin: Bengaluru, India <p> :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020 </p>
 
 ### Things I currently do >>>
 #### :sparkle: Basic Python Developments
