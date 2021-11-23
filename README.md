@@ -4,19 +4,25 @@
 
 ###### _______________________________________________________________________________________________
 
-### :computer: Things I currently do
-- :sparkle: RobotFramework
-- :sparkle: Selenium
-- :sparkle: Graphic Design (Photoshop | Illustrator | Figma | XD)
-- :sparkle: Video Editing & Animations (Premiere Pro | AfterEffects)
+### :shipit: Things I currently do
+- :computer: Development
+  - :small_red_triangle: RobotFramework
+  - :small_red_triangle: Selenium
+- :art: Content Creation
+  - :small_red_triangle: Photoshop | Illustrator | Figma | XD
+  - :small_red_triangle: Premiere Pro | AfterEffects
+- :bar_chart: Data Analytics
+  - :small_red_triangle: Python
+  - :small_red_triangle: SQL
 
 
 ### :microscope: Currently Learning
-- :eight_spoked_asterisk: HTML/CSS
-- :eight_spoked_asterisk: Machine Learning
+- :small_blue_diamond: HTML/CSS
+- :small_blue_diamond: Machine Learning
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
-- :eight_pointed_black_star: JavaScript
-- :eight_pointed_black_star: Angular JS
-- :eight_pointed_black_star: Django
+- :small_orange_diamond: JavaScript
+- :small_orange_diamond: Angular JS
+- :small_orange_diamond: Django
+- :small_orange_diamond: Computer Vision
