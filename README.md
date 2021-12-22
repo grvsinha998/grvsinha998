@@ -5,7 +5,7 @@
 ###### _______________________________________________________________________________________________
 
 ### :shipit: Things I currently do
-- :computer: Development
+- :computer: Automation
   - :small_red_triangle: RobotFramework
   - :small_red_triangle: Selenium
 - :art: Content Creation
