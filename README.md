@@ -20,6 +20,7 @@
 ### :microscope: Currently Learning
 - HTML/CSS
 - Machine Learning
+- Information Design & Visualization
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
