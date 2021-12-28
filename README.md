@@ -10,8 +10,13 @@
   - Selenium
   - TestComplete
 - :art: Content Creation
-  - Photoshop | Illustrator | Figma | XD
-  - Premiere Pro | AfterEffects
+  - Photoshop
+  - Illustrator
+  - Premiere Pro
+  - AfterEffects
+- :calling: UI Design
+  - Figma
+  - Adobe XD
 - :bar_chart: Data Analytics
   - Python
   - SQL
