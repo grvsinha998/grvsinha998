@@ -16,8 +16,9 @@
 ### :microscope: Currently Learning
 - `HTML` `CSS`
 - Machine Learning 
-  > ([*Checkout my certifications from kaggle.com*](https://drive.google.com/drive/folders/1Ko6zvjFY4vOU_K-mPVqVEMeRNfhApSw_?usp=sharing))
+  > [*Checkout my certifications from kaggle.com*](https://drive.google.com/drive/folders/1Ko6zvjFY4vOU_K-mPVqVEMeRNfhApSw_?usp=sharing)
 - Information Design & Visualization
+  > [*Checkout my certification from gymnasium.com*](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
