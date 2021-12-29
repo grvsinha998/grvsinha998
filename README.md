@@ -13,13 +13,13 @@
 
 
 ### :microscope: Currently Learning
-- HTML/CSS
-- Machine Learning
+- `HTML` `CSS`
+- Machine Learning ([*Checkout my certifications from kaggle.com*](https://drive.google.com/drive/folders/1Ko6zvjFY4vOU_K-mPVqVEMeRNfhApSw_?usp=sharing))
 - Information Design & Visualization
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
-- JavaScript
-- Angular JS
-- Django
+- `JavaScript`
+- `Angular JS`
+- `Django`
 - Computer Vision
