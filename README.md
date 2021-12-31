@@ -5,12 +5,12 @@
 ******************************************************************************************************
 
 ### :shipit: Tech I currently work with
-| :computer: Automation | :art: Content Creation | :calling: UI Design | :bar_chart: Data Analytics |
-| --------------------- | :--------------------- | :------------------ | :------------------------- |
-| `RobotFramework`      | Photoshop              | Figma               | `python`                   |
-| `Selenium`            | Illustrator            | Adobe XD            | `SQL`                      |
-|  TestComplete `python`| Premiere Pro           | Webflow             |                            |
-|                       | AfterEffects           | WordPress           |                            |
+| :computer: Automation  | :art: Content Creation | :calling: UI Design | :bar_chart: Data Analytics |
+| :--------------------- | :--------------------- | :------------------ | :------------------------- |
+| `RobotFramework`       | Photoshop              | Figma               | `python`                   |
+| `Selenium`             | Illustrator            | Adobe XD            | `SQL`                      |
+|  TestComplete `python` | Premiere Pro           | Webflow             |                            |
+|                        | AfterEffects           | WordPress           |                            |
 
 
 ### :microscope: Currently Learning
