@@ -14,7 +14,7 @@
 
 
 ### :microscope: Currently Learning
-- Machine Learning `python`
+- Machine Learning
 - `JavaScript`
 - `SQL`
 
