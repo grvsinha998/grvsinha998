@@ -34,5 +34,6 @@
 - [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
 
 ******************************************************
+### :speech_balloon: Let's Talk!
 ###### 📫 grvsinha998@gmail.com
-###### :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) | [Kaggle](https://www.kaggle.com/gauravsinha97) | [Behance](https://www.behance.net/grvsinha)
+###### :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) | [Behance](https://www.behance.net/grvsinha)
