@@ -1,6 +1,9 @@
 ### 👋 Hi there, I am Gaurav Sinha!
 ###### :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020
-###### 📫 grvsinha998@gmail.com | [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) 
+
+Skilled Python Developer with experience in `Robot Framework` & `Selenium`. Have also developed multiple ML based solutions to support several business activities at Schneider Electric.
+
+<p>Also have 5+ years of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
 
 ******************************************************************************************************
 
@@ -28,11 +31,9 @@
 
 ### :mortar_board: My Certifications
 - [UI Design](https://www.credential.net/0cdb00fa-432a-4ff6-b715-d0ec6493cb26#gs.kxo38g) `HTML` `CSS`
-- [Data Analytics](https://drive.google.com/drive/folders/1IEUROW8K6XfQKN2iNTytm-j5pH48MhGM?usp=sharing) `python` `SQL`
+- [Data Analytics](https://drive.google.com/drive/folders/1rX2NZEDxWpjl7T5LceuTMDIrlN9kOsNt?usp=sharing) `python` `SQL`
 - [Machine Learning](https://drive.google.com/drive/folders/1Ko6zvjFY4vOU_K-mPVqVEMeRNfhApSw_?usp=sharing) `python`
 - [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
 
 ******************************************************
-
-| [Kaggle](https://www.kaggle.com/gauravsinha97) | [Behance](https://www.behance.net/grvsinha) | [Codepen.io](https://codepen.io/grvsinha998) |
-| :--------------------------------------------: | :-----------------------------------------: | :------------------------------------------: |
+###### 📫 grvsinha998@gmail.com | [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) | [Kaggle](https://www.kaggle.com/gauravsinha97) | [Behance](https://www.behance.net/grvsinha)
