@@ -1,11 +1,9 @@
 ### 👋 Hi there, I am Gaurav Sinha!
 ###### :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020
 
-Skilled Python Developer with experience in `Robot Framework` & `Selenium`. Have also developed multiple ML based solutions to support several business activities at Schneider Electric.
+>Skilled **Python Developer** with experience in `Robot Framework` & `Selenium`. Other than this, I have developed multiple ML based solutions to support several business activities at Schneider Electric. I also have **5 years** of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
 
-<p>Also have 5+ years of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
-
-******************************************************************************************************
+******************************************************
 
 ### :shipit: Tech I currently work with
 | :computer: Automation  | :art: Content Creation | :calling: UI Design | :bar_chart: Data Analytics |
@@ -36,4 +34,5 @@ Skilled Python Developer with experience in `Robot Framework` & `Selenium`. Have
 - [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
 
 ******************************************************
-###### 📫 grvsinha998@gmail.com | [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) | [Kaggle](https://www.kaggle.com/gauravsinha97) | [Behance](https://www.behance.net/grvsinha)
+###### 📫 grvsinha998@gmail.com
+###### :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/gaurav-sinha-400149135/) | [Kaggle](https://www.kaggle.com/gauravsinha97) | [Behance](https://www.behance.net/grvsinha)
