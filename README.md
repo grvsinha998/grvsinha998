@@ -14,16 +14,13 @@
 |                        | AfterEffects           | WordPress           |                            |
 
 
-### :microscope: Currently Learning
-- Machine Learning
-- `JavaScript`
-- `SQL`
+### :microscope: Currently Learning - Selenium with Java
+
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
 - `Angular JS`
 - `Django`
-- Computer Vision
 
 ******************************************************
 
