@@ -1,7 +1,8 @@
 ### 👋 Hi there, I am Gaurav Sinha!
 ###### :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020
 
->Skilled **Python Developer** with experience in `Robot Framework` & `Selenium`. Other than this, I have developed multiple ML based solutions to support several business activities at Schneider Electric. I also have **5 years** of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
+**Automation Test Engineer**
+>I have developed multiple ML based solutions to support several business activities at Schneider Electric. I also have **5 years** of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
 
 ******************************************************
 
@@ -24,10 +25,11 @@
 ******************************************************
 
 ### :mortar_board: My Certifications
-- [UI Design](https://www.credential.net/0cdb00fa-432a-4ff6-b715-d0ec6493cb26#gs.kxo38g) `HTML` `CSS`
+- [UI Design](https://www.credential.net/0cdb00fa-432a-4ff6-b715-d0ec6493cb26#gs.kxo38g) `HTML` `CSS` `Figma`
 - [Data Analytics](https://drive.google.com/drive/folders/1rX2NZEDxWpjl7T5LceuTMDIrlN9kOsNt?usp=sharing) `python` `SQL`
 - [Machine Learning](https://drive.google.com/drive/folders/1Ko6zvjFY4vOU_K-mPVqVEMeRNfhApSw_?usp=sharing) `python`
-- [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
+- [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2) `Photoshop` `Illustrator`
+- [Professional Scrum Master | Level 1](https://drive.google.com/open?id=1dEleNmI5dhh-23kGQ4_REoo-4hNFmHr7&authuser=grvsinha998%40gmail.com&usp=drive_fs)
 
 ******************************************************
 ### :speech_balloon: Let's Talk!
