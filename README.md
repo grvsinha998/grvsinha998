@@ -8,14 +8,13 @@
 ### :shipit: Tech I currently work with
 | :computer: Automation  | :art: Content Creation | :calling: UI Design | :bar_chart: Data Analytics |
 | :--------------------- | :--------------------- | :------------------ | :------------------------- |
-| `RobotFramework`       | Photoshop              | Figma               | `python`                   |
-| `Selenium`             | Illustrator            | Adobe XD            | `SQL`                      |
-|  TestComplete `python` | Premiere Pro           | Webflow             |                            |
-|                        | AfterEffects           | WordPress           |                            |
+| `python`               | Photoshop              | Figma               | `python`                   |
+| `Selenium`             | Illustrator            | Adobe XD            |                            |
+| `RobotFramework`       | Premiere Pro           | Webflow             |                            |
+| `java`                 | AfterEffects           | WordPress           |                            |
 
 
 ### :microscope: Currently Learning - Selenium with Java
-
 
 
 ### :bookmark_tabs: Next on the "To Learn" list
