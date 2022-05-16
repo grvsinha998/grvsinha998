@@ -2,8 +2,6 @@
 ###### :mortar_board: BE/B.Tech, EEE from VIT Vellore | 2020
 
 **Automation Test Engineer**
->I have developed multiple ML based solutions to support several business activities at Schneider Electric. I also have **5 years** of experience as a graphic designer with expertise in UI design, Social media content creation and Branding & Visual Identity.
-
 ******************************************************
 
 ### :shipit: Tech I currently work with
