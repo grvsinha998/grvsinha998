@@ -54,6 +54,9 @@ The objective of this study was to evaluate the performance of a circuit breaker
 - [Information Design & Visualization](https://www.credential.net/a47a923d-4d2c-46f9-8161-b3846e70ca3a#gs.k4v3j2)
 - [Professional Scrum Master | Level 1](https://drive.google.com/open?id=1dEleNmI5dhh-23kGQ4_REoo-4hNFmHr7&authuser=grvsinha998%40gmail.com&usp=drive_fs)
 
+###### 🧑🏽‍💻 Currently Learning
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
 ******************************************************
 ###### :speech_balloon: Let's Talk!
 ###### 📫 grvsinha998@gmail.com
