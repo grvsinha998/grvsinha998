@@ -28,6 +28,9 @@ The objective of this study was to evaluate the performance of a circuit breaker
 
 ###### ⛓️ On-going Project(s)
 ### Unified Product Catalogue
+Given the sheer size of Schneider as an organization, its global supply chain is massive, with millions of SKUs. This makes it challenging for suppliers to find the products they need in a timely and efficient manner. The goal of this project is to address this issue by creating a tool that streamlines the process of searching for a requested product globally.
+
+The product directory will be user-friendly and intuitive, allowing suppliers to quickly access the information they need about a specific product. The directory will be updated regularly to ensure that it remains accurate and up-to-date, and it will be easily accessible from anywhere in the world. By implementing this tool, we aim to improve the overall efficiency of its global supply chain, making it easier for suppliers to get the products they need and helping the company to better serve its customers.
 
 ###### ⚒️ Skills
 ### Test Automation
