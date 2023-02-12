@@ -17,7 +17,7 @@ _I enjoy storytelling and utilizing technology to streamline daily activities._
 > Schneider Offers tested: `Digital Logbook` `Commercial Infrastructure & Industrial Buildings`
 
 
-###### 💡 Projects
+###### 💡 Past Projects
 ### Smart LOTO
 Smart LOTO aims to modernise and streamline the traditional lock-out, tag-out procedure. This new system includes safety checkpoints to ensure that all necessary precautions are taken before work begins, reducing the risk of fatal accidents.<br>
 Additionally, our digital platform allows for improved communication between all individuals involved in the LOTO process, ensuring that everyone is on the same page and working towards a common goal of safe and efficient operations.<br>
@@ -26,6 +26,8 @@ Additionally, our digital platform allows for improved communication between all
 ### Machine Learning to reduce Circuit Breaker's endurance testing
 The objective of this study was to evaluate the performance of a circuit breaker through endurance testing by analyzing various parameters and utilizing machine learning to enhance the design process. Initially, a predictive model was developed to forecast the temperature rise curves for 28 days of a Miniature Circuit Breaker (MCB) based on the first two days of data.
 
+###### ⛓️ On-going Project(s)
+### Unified Product Catalogue
 
 ###### ⚒️ Skills
 ### Test Automation
