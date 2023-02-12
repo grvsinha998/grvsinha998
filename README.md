@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Gaurav Sinha!
+## 🙏🏽 Namaste, I am Gaurav Sinha!
 _I enjoy storytelling and utilizing technology to streamline daily activities._
 
 ###### 🎓 B.E. Electrical & Electronics from [VIT Vellore](https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in), 2020
