@@ -37,7 +37,6 @@ The product directory will be user-friendly and intuitive, allowing suppliers to
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) <br>
 
@@ -49,7 +48,6 @@ The product directory will be user-friendly and intuitive, allowing suppliers to
 ![pp](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <br>
 
 ###### 🏅 Certifications
@@ -60,6 +58,7 @@ The product directory will be user-friendly and intuitive, allowing suppliers to
 - [Professional Scrum Master | Level 1](https://drive.google.com/open?id=1dEleNmI5dhh-23kGQ4_REoo-4hNFmHr7&authuser=grvsinha998%40gmail.com&usp=drive_fs)
 
 ###### 🧑🏽‍💻 Currently Learning
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ******************************************************
