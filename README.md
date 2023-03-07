@@ -61,7 +61,7 @@ The product directory will be user-friendly and intuitive, allowing suppliers to
 
 ###### 🧑🏽‍💻 Currently Learning
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ******************************************************
 ###### :speech_balloon: Let's Talk!
