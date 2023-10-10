@@ -1,7 +1,7 @@
 ## 🙏🏽 Namaste, I am Gaurav Sinha!
 _I enjoy storytelling and utilizing technology to streamline daily activities._
 
-###### 🎓 MSc Human-Computer Interaction [University of Nottingham]([https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in](https://www.nottingham.ac.uk/), 2024
+###### 🎓 MSc Human-Computer Interaction [University of Nottingham]([https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in](https://www.nottingham.ac.uk/)), 2024
 
 
 ###### 👨🏽‍💼 Professional Experience
