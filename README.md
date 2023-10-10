@@ -1,8 +1,7 @@
 ## 🙏🏽 Namaste, I am Gaurav Sinha!
 _I enjoy storytelling and utilizing technology to streamline daily activities._
 
-###### 🎓 MSc Human-Computer Interaction<br>
-[University of Nottingham]((https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in](https://www.nottingham.ac.uk/)), 2024
+###### 🎓 MSc Human-Computer Interaction, University of Nottingham, 2024
 
 
 ###### 👨🏽‍💼 Professional Experience
@@ -18,7 +17,7 @@ _I enjoy storytelling and utilizing technology to streamline daily activities._
 > Schneider Offers tested: `Digital Logbook` `Commercial Infrastructure & Industrial Buildings`
 
 
-###### 💡 Past Projects
+###### 💡 Projects
 ### Smart LOTO
 Smart LOTO aims to modernise and streamline the traditional lock-out, tag-out procedure. This new system includes safety checkpoints to ensure that all necessary precautions are taken before work begins, reducing the risk of fatal accidents.<br>
 Additionally, our digital platform allows for improved communication between all individuals involved in the LOTO process, ensuring that everyone is on the same page and working towards a common goal of safe and efficient operations.<br>
@@ -27,11 +26,6 @@ Additionally, our digital platform allows for improved communication between all
 ### Machine Learning to reduce Circuit Breaker's endurance testing time
 The objective of this study was to evaluate the performance of a circuit breaker through endurance testing by analyzing various parameters and utilizing machine learning to enhance the design process. Initially, a predictive model was developed to forecast the temperature rise curves for 28 days of a Miniature Circuit Breaker (MCB) based on the first two days of data.
 
-###### ⛓️ On-going Project(s)
-### Unified Product Catalogue
-Given the sheer size of Schneider as an organization, its global supply chain is massive, with millions of SKUs. This makes it challenging for suppliers to find the products they need in a timely and efficient manner. The goal of this project is to address this issue by creating a tool that streamlines the process of searching for a requested product globally.
-
-The product directory will be user-friendly and intuitive, allowing suppliers to quickly access the information they need about a specific product. The directory will be updated regularly to ensure that it remains accurate and up-to-date, and it will be easily accessible from anywhere in the world. By implementing this tool, we aim to improve the overall efficiency of its global supply chain, making it easier for suppliers to get the products they need and helping the company to better serve its customers.
 
 ###### ⚒️ Skills
 ### Test Automation
