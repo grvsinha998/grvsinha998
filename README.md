@@ -1,17 +1,17 @@
 ## 🙏🏽 Namaste, I am Gaurav Sinha!
 _I enjoy storytelling and utilizing technology to streamline daily activities._
 
-###### 🎓 B.E. Electrical & Electronics from [VIT Vellore](https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in), 2020
+###### 🎓 MSc Human-Computer Interaction [University of Nottingham]([https://www.google.com/search?q=vit+vellore&oq=vit+ve&sourceid=chrome&ie=UTF-8#:~:text=Vellore%20Institute%20of%20Technology%20%7C%20A,https%3A//vit.ac.in](https://www.nottingham.ac.uk/), 2024
 
 
 ###### 👨🏽‍💼 Professional Experience
-### Test Automation Engineer | Schneider Electric (2020 - Current)
+### Test Automation Engineer | Schneider Electric (2020 - 2023)
 > `Integration Testing` `Black Box Testing` `Regression Testing` <br>
-> - Automating UI and API based test flows across multiple Schneider apps, websites, and desktop applications.
+> - Automating UI and API-based test flows across multiple Schneider apps, websites, and desktop applications.
 > - Drafting quarterly plans for test activities, reviewing code and mentoring junior developers.
 > - Collaborating with the Customer Satisfaction and Quality team to create and execute end-to-end test flows for performance testing.
 > - Collaborating with developers to ensure that all products meet the required standards of usability and performance.
-> - Automating Localization tests for successful Global deployement.
+> - Automating Localization tests for successful Global deployment.
 > - Providing input to developers on the overall UX and performance of the platform.
 > 
 > Schneider Offers tested: `Digital Logbook` `Commercial Infrastructure & Industrial Buildings`
